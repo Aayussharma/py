@@ -1,0 +1,4 @@
+import math 
+a = input("enter a number ")
+b = input("enter a number")
+print("the gcd of two number is " math.gcd(a,b))
